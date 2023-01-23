@@ -1,0 +1,2 @@
+# strangerr
+My new repository 
